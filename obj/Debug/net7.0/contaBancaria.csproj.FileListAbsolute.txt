@@ -1,0 +1,15 @@
+D:\laragon\www\C-Sharp\contaBancaria\bin\Debug\net7.0\contaBancaria.exe
+D:\laragon\www\C-Sharp\contaBancaria\bin\Debug\net7.0\contaBancaria.deps.json
+D:\laragon\www\C-Sharp\contaBancaria\bin\Debug\net7.0\contaBancaria.runtimeconfig.json
+D:\laragon\www\C-Sharp\contaBancaria\bin\Debug\net7.0\contaBancaria.dll
+D:\laragon\www\C-Sharp\contaBancaria\bin\Debug\net7.0\contaBancaria.pdb
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\contaBancaria.csproj.AssemblyReference.cache
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\contaBancaria.AssemblyInfoInputs.cache
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\contaBancaria.AssemblyInfo.cs
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\contaBancaria.csproj.CoreCompileInputs.cache
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\contaBancaria.dll
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\refint\contaBancaria.dll
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\contaBancaria.pdb
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\contaBancaria.genruntimeconfig.cache
+D:\laragon\www\C-Sharp\contaBancaria\obj\Debug\net7.0\ref\contaBancaria.dll
